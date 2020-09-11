@@ -1,6 +1,6 @@
 {
   "name": "imgkawanua",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "imgkawanua is a simple image placeholder generator. It generates placeholder images, with a few options you can pass.",
   "main": "index.js",
   "scripts": {
