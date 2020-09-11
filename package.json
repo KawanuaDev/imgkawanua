@@ -1,0 +1,19 @@
+{
+  "name": "imgkawanua",
+  "version": "0.1.1",
+  "description": "imgkawanua is a simple image placeholder generator. It generates placeholder images, with a few options you can pass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erolj/imgkawanua.git"
+  },
+  "author": "KawanuaDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erolj/imgkawanua/issues"
+  },
+  "homepage": "https://github.com/erolj/imgkawanua#readme"
+}
