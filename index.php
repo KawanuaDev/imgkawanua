@@ -5,8 +5,8 @@ $sitename = 'imgkawanua';
 
 function cssGlobal() {
   $cssList = array(
-      "https://static.my.id/libs/bootstrap/4.3.1/css/bootstrap.min.css", 
-      "https://font.my.id/libs/font-awesome/5.11.2/css/all.min.css", 
+      "https://assets.kawanua.pp.ua/libs/bootstrap/4.3.1/css/bootstrap.min.css", 
+      "https://fonts.kid.or.id/libs/font-awesome/5.11.2/css/all.min.css", 
       "assets/css/core.min.css" 
   );
   $cssSum = count($cssList);
@@ -18,10 +18,10 @@ function cssGlobal() {
 
 function jsGlobal() {
   $jsList = array(
-      "https://static.my.id/libs/jquery/3.4.1/jquery.min.js", 
-      "https://static.my.id/libs/popper.js/1.15.0/umd/popper.min.js", 
-      "https://static.my.id/libs/bootstrap/4.3.1/js/bootstrap.min.js", 
-      "https://font.my.id/libs/font-awesome/5.11.2/js/all.min.js",
+      "https://assets.kawanua.pp.ua/libs/jquery/3.4.1/jquery.min.js", 
+      "https://assets.kawanua.pp.ua/libs/popper.js/1.15.0/umd/popper.min.js", 
+      "https://assets.kawanua.pp.ua/libs/bootstrap/4.3.1/js/bootstrap.min.js", 
+      "https://fonts.kid.or.id/libs/font-awesome/5.11.2/js/all.min.js",
       "assets/js/core.min.js"
   );
   $jsSum = count($jsList);
@@ -33,8 +33,9 @@ function jsGlobal() {
 
 function prefetchArray() {
   $fetchList = array(
-      "//static.my.id", 
-      "//font.my.id"
+      "//assets.kawanua.pp.ua", 
+      "//assets.kid.or.id", 
+      "//fonts.kid.or.id"
   );
   $fetchSum = count($fetchList);
 
